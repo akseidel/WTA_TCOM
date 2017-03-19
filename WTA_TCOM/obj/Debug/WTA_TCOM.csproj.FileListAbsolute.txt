@@ -1,0 +1,12 @@
+C:\VS-Projects\Visual Studio 2010\Projects\WTA_TCOM\WTA_TCOM\bin\Debug\WTA_TCOM.dll.config
+C:\VS-Projects\Visual Studio 2010\Projects\WTA_TCOM\WTA_TCOM\bin\Debug\WTA_TCOM.dll
+C:\VS-Projects\Visual Studio 2010\Projects\WTA_TCOM\WTA_TCOM\bin\Debug\WTA_TCOM.pdb
+C:\VS-Projects\Visual Studio 2010\Projects\WTA_TCOM\WTA_TCOM\obj\Debug\FormMsgWPF.g.cs
+C:\VS-Projects\Visual Studio 2010\Projects\WTA_TCOM\WTA_TCOM\obj\Debug\WTA_TCOM_MarkupCompile.cache
+C:\VS-Projects\Visual Studio 2010\Projects\WTA_TCOM\WTA_TCOM\obj\Debug\WTA_TCOM_MarkupCompile.lref
+C:\VS-Projects\Visual Studio 2010\Projects\WTA_TCOM\WTA_TCOM\obj\Debug\FormMsgWPF.baml
+C:\VS-Projects\Visual Studio 2010\Projects\WTA_TCOM\WTA_TCOM\obj\Debug\WTA_TCOM.g.resources
+C:\VS-Projects\Visual Studio 2010\Projects\WTA_TCOM\WTA_TCOM\obj\Debug\WTA_TCOM.Properties.Resources.resources
+C:\VS-Projects\Visual Studio 2010\Projects\WTA_TCOM\WTA_TCOM\obj\Debug\WTA_TCOM.csproj.GenerateResource.Cache
+C:\VS-Projects\Visual Studio 2010\Projects\WTA_TCOM\WTA_TCOM\obj\Debug\WTA_TCOM.dll
+C:\VS-Projects\Visual Studio 2010\Projects\WTA_TCOM\WTA_TCOM\obj\Debug\WTA_TCOM.pdb

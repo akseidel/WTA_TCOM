@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application WTA_TCOM</Name>
+    <Assembly>WTA_TCOM.dll</Assembly>
+    <FullClassName>WTA_TCOM.AppTCOMRibbon</FullClassName>
+    <ClientId>F9E28CC6-9FD7-4763-BA09-C2952C9897AE</ClientId>
+    <VendorId>AKS_</VendorId>
+    <VendorDescription>AKS, http://wmtao.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

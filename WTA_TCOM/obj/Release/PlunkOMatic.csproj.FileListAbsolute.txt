@@ -1,0 +1,12 @@
+\\Wtafile2\user\USERS\AKS\Documents\Visual Studio 2013\Projects\PlunkOMatic\PlunkOMatic\bin\Release\PlunkOMatic.dll
+\\Wtafile2\user\USERS\AKS\Documents\Visual Studio 2013\Projects\PlunkOMatic\PlunkOMatic\bin\Release\PlunkOMatic.pdb
+\\Wtafile2\user\USERS\AKS\Documents\Visual Studio 2013\Projects\PlunkOMatic\PlunkOMatic\obj\Release\PlunkOMatic.PlunkOMatic.resources
+\\Wtafile2\user\USERS\AKS\Documents\Visual Studio 2013\Projects\PlunkOMatic\PlunkOMatic\obj\Release\PlunkOMatic.csproj.GenerateResource.Cache
+\\Wtafile2\user\USERS\AKS\Documents\Visual Studio 2013\Projects\PlunkOMatic\PlunkOMatic\obj\Release\PlunkOMatic.dll
+\\Wtafile2\user\USERS\AKS\Documents\Visual Studio 2013\Projects\PlunkOMatic\PlunkOMatic\obj\Release\PlunkOMatic.pdb
+C:\VS-Projects\Visual Studio 2010\Projects\PlunkOMatic\PlunkOMatic\bin\Release\PlunkOMatic.dll
+C:\VS-Projects\Visual Studio 2010\Projects\PlunkOMatic\PlunkOMatic\bin\Release\PlunkOMatic.pdb
+C:\VS-Projects\Visual Studio 2010\Projects\PlunkOMatic\PlunkOMatic\obj\Release\PlunkOMatic.PlunkOMatic.resources
+C:\VS-Projects\Visual Studio 2010\Projects\PlunkOMatic\PlunkOMatic\obj\Release\PlunkOMatic.csproj.GenerateResource.Cache
+C:\VS-Projects\Visual Studio 2010\Projects\PlunkOMatic\PlunkOMatic\obj\Release\PlunkOMatic.dll
+C:\VS-Projects\Visual Studio 2010\Projects\PlunkOMatic\PlunkOMatic\obj\Release\PlunkOMatic.pdb

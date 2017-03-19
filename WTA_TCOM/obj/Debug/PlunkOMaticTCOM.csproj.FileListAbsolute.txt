@@ -1,0 +1,7 @@
+C:\VS-Projects\Visual Studio 2010\Projects\PlunkOMaticTCOM\PlunkOMaticTCOM\bin\Debug\PlunkOMaticTCOM.dll
+C:\VS-Projects\Visual Studio 2010\Projects\PlunkOMaticTCOM\PlunkOMaticTCOM\bin\Debug\PlunkOMaticTCOM.pdb
+C:\VS-Projects\Visual Studio 2010\Projects\PlunkOMaticTCOM\PlunkOMaticTCOM\obj\Debug\PlunkOMaticTCOM.csprojResolveAssemblyReference.cache
+C:\VS-Projects\Visual Studio 2010\Projects\PlunkOMaticTCOM\PlunkOMaticTCOM\obj\Debug\PlunkOMatic.PlunkOMaticTCOM.resources
+C:\VS-Projects\Visual Studio 2010\Projects\PlunkOMaticTCOM\PlunkOMaticTCOM\obj\Debug\PlunkOMaticTCOM.csproj.GenerateResource.Cache
+C:\VS-Projects\Visual Studio 2010\Projects\PlunkOMaticTCOM\PlunkOMaticTCOM\obj\Debug\PlunkOMaticTCOM.dll
+C:\VS-Projects\Visual Studio 2010\Projects\PlunkOMaticTCOM\PlunkOMaticTCOM\obj\Debug\PlunkOMaticTCOM.pdb

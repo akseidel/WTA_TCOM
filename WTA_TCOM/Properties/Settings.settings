@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WTA_TCOM.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FormMSG_HT" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">132</Value>
+    </Setting>
+    <Setting Name="FormMSG_WD" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">245</Value>
+    </Setting>
+    <Setting Name="FormMSG_Top" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">200</Value>
+    </Setting>
+    <Setting Name="FormMSG_Left" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">200</Value>
+    </Setting>
+    <Setting Name="TagOtherViews" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="RootSearchPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">WTA Families</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

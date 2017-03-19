@@ -1,0 +1,13 @@
+C:\VS-Projects\Visual Studio 2010\Projects\PlunkOMaticTCOM\PlunkOMaticTCOM\bin\Release\PlunkOMaticTCOM.dll.config
+C:\VS-Projects\Visual Studio 2010\Projects\PlunkOMaticTCOM\PlunkOMaticTCOM\bin\Release\PlunkOMaticTCOM.dll
+C:\VS-Projects\Visual Studio 2010\Projects\PlunkOMaticTCOM\PlunkOMaticTCOM\bin\Release\PlunkOMaticTCOM.pdb
+C:\VS-Projects\Visual Studio 2010\Projects\PlunkOMaticTCOM\PlunkOMaticTCOM\obj\Release\PlunkOMaticTCOM.csprojResolveAssemblyReference.cache
+C:\VS-Projects\Visual Studio 2010\Projects\PlunkOMaticTCOM\PlunkOMaticTCOM\obj\Release\FormMsgWPF.g.cs
+C:\VS-Projects\Visual Studio 2010\Projects\PlunkOMaticTCOM\PlunkOMaticTCOM\obj\Release\PlunkOMaticTCOM_MarkupCompile.cache
+C:\VS-Projects\Visual Studio 2010\Projects\PlunkOMaticTCOM\PlunkOMaticTCOM\obj\Release\PlunkOMaticTCOM_MarkupCompile.lref
+C:\VS-Projects\Visual Studio 2010\Projects\PlunkOMaticTCOM\PlunkOMaticTCOM\obj\Release\FormMsgWPF.baml
+C:\VS-Projects\Visual Studio 2010\Projects\PlunkOMaticTCOM\PlunkOMaticTCOM\obj\Release\PlunkOMaticTCOM.g.resources
+C:\VS-Projects\Visual Studio 2010\Projects\PlunkOMaticTCOM\PlunkOMaticTCOM\obj\Release\PlunkOMaticTCOM.Properties.Resources.resources
+C:\VS-Projects\Visual Studio 2010\Projects\PlunkOMaticTCOM\PlunkOMaticTCOM\obj\Release\PlunkOMaticTCOM.csproj.GenerateResource.Cache
+C:\VS-Projects\Visual Studio 2010\Projects\PlunkOMaticTCOM\PlunkOMaticTCOM\obj\Release\PlunkOMaticTCOM.dll
+C:\VS-Projects\Visual Studio 2010\Projects\PlunkOMaticTCOM\PlunkOMaticTCOM\obj\Release\PlunkOMaticTCOM.pdb

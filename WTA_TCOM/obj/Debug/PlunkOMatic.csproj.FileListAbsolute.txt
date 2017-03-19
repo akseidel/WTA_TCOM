@@ -1,0 +1,7 @@
+\\Wtafile2\user\USERS\AKS\Documents\Visual Studio 2013\Projects\PlunkOMatic\PlunkOMatic\obj\Debug\PlunkOMatic.csprojResolveAssemblyReference.cache
+\\Wtafile2\user\USERS\AKS\Documents\Visual Studio 2013\Projects\PlunkOMatic\PlunkOMatic\obj\Debug\PlunkOMatic.PlunkOMatic.resources
+\\Wtafile2\user\USERS\AKS\Documents\Visual Studio 2013\Projects\PlunkOMatic\PlunkOMatic\obj\Debug\PlunkOMatic.csproj.GenerateResource.Cache
+\\Wtafile2\user\USERS\AKS\Documents\Visual Studio 2013\Projects\PlunkOMatic\PlunkOMatic\bin\Debug\PlunkOMatic.dll
+\\Wtafile2\user\USERS\AKS\Documents\Visual Studio 2013\Projects\PlunkOMatic\PlunkOMatic\bin\Debug\PlunkOMatic.pdb
+\\Wtafile2\user\USERS\AKS\Documents\Visual Studio 2013\Projects\PlunkOMatic\PlunkOMatic\obj\Debug\PlunkOMatic.dll
+\\Wtafile2\user\USERS\AKS\Documents\Visual Studio 2013\Projects\PlunkOMatic\PlunkOMatic\obj\Debug\PlunkOMatic.pdb
