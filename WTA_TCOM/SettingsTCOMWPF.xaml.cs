@@ -20,6 +20,10 @@ using Autodesk.Windows;
 using System.ComponentModel;
 
 
+/// <summary>
+/// A settings mechanism that was started but never developed beyond nothing.
+/// </summary>
+
 namespace WTA_TCOM {
     /// <summary>
     /// Interaction logic for WPF_WTATabControler.xaml
